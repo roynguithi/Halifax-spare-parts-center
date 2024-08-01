@@ -1,0 +1,27 @@
+[
+    [
+        {
+          "id": 1,
+          "name": "Brake Pads",
+          "description": "High-quality brake pads for various vehicle models.",
+          "price": 30,
+          "category": "Brakes",
+          "image": "https://i.pinimg.com/564x/a0/c5/61/a0c561a334ebccf8d874bc650c67390c.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Oil Filter",
+          "description": "Durable oil filters to keep your engine clean.",
+          "price": 15,
+          "category": "Engine",
+          "image": "https://i.pinimg.com/564x/f1/01/d3/f101d30eca894337b8c0a3208f007567.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Spark Plug",
+          "description": "Reliable spark plugs for optimal engine performance.",
+          "price": 8,
+          "category": "Engine",
+          "image": "https://i.pinimg.com/564x/a4/d7/d4/a4d7d441e7a0f3dfeba144949daa6932.jpg"
+        }
+      ]
